@@ -5,4 +5,4 @@ Person -> PersonName interp (Person.Name);
 ProperName -> Word<h-reg1, gram='имя'>
               Word<h-reg1, gram='отч'>
               Word<h-reg1, gram='фам'>;
-Person -> ProperName interp (ProperName);
+Person -> ProperName interp (Person.Name);
