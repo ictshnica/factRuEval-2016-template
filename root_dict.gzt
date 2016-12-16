@@ -34,3 +34,8 @@ TAuxDicArticle "Loc"
 {
     key = { "tomita:loc.cxx" type=CUSTOM }
 }
+
+TAuxDicArticle "org_head"
+{
+    key = { "dicts/org_head.txt" type=FILE }
+}
